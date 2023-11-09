@@ -3,4 +3,4 @@ for i in range(0, 98 + 1):
     if i < 99:
         print('{:02d}'.format(i), end=', ')
     else:
-        print('{}'.format(99))
+        print('{:d}'.format(99))
