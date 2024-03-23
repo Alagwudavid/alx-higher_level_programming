@@ -1,0 +1,2 @@
+#JAVASCRIPT PROJECT
+Alx-SE platform
